@@ -1,0 +1,23 @@
+{
+  "name": "backend-class",
+  "version": "1.0.0",
+  "description": "This is my repo for the backend course class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colmultimedia/backend-class.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colmultimedia/backend-class/issues"
+  },
+  "homepage": "https://github.com/colmultimedia/backend-class#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.12"
+  }
+}

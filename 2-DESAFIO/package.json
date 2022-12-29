@@ -1,0 +1,14 @@
+{
+  "name": "2do-desafio",
+  "version": "1.0.0",
+  "description": "ENTREGA 27 JULIO 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MATTHEUV OSORIO",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}

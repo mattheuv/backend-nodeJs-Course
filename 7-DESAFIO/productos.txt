@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Desodorante",
+		"price": 7000,
+		"thumbnail": "ruta3.jpg",
+		"id": 0
+	},
+	{
+		"title": "Shampoo",
+		"price": 5000,
+		"thumbnail": "ruta2.jpg",
+		"id": 1
+	},
+	{
+		"title": "Jabon",
+		"price": 3000,
+		"thumbnail": "ruta.jpg",
+		"id": 2
+	}
+]
